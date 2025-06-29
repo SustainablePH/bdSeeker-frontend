@@ -31,7 +31,7 @@ export function Header() {
       <div className="bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-600 text-white text-center py-2 px-4">
         <div className="flex items-center justify-center space-x-2 text-sm">
           <Sparkles className="h-4 w-4" />
-          <span>🎉 New: 500+ Remote IT Jobs Added This Week!</span>
+          <span>🎉 The jobs are fake currently we are working on it, You can contribute if you want it&#39;s open source</span>
           <Badge variant="secondary" className="bg-white/20 text-white border-white/30">
             Hot
           </Badge>
